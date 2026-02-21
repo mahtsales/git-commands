@@ -23,4 +23,4 @@ Para salvar qualquer alteração, o processo padrão é sempre:
 ### 1. Verificar o Status
 Antes de qualquer coisa, veja o que está acontecendo:
 ```bash
-git status
+git status# branches
